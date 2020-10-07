@@ -2,10 +2,14 @@
 
 #e4 .container {
     height: 300px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between; 
 }
 
 #e4 .item {
     width: 14%; 
+
 }
 
 #e4 .i1 {
